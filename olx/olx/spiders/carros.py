@@ -1,5 +1,5 @@
-import scrapy
-
+#import scrapy
+import abc
 
 class CarrosSpider(scrapy.Spider):
     name = 'carros'
